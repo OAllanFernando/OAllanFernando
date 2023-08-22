@@ -2,15 +2,13 @@
 
 ###
 
-<p align="center">My name is Allan and I'm a friendly person, thirsty for learning, from Paranavaí</p>
-
 ###
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Javascript<br>📚Academic at the Federal Institute of Paraná, in Software Engineering<br>🎯 Goals: Become a better profecional every day.<br>🎲 Fun fact: Coffee with ice water</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Javascript<br>📚Academic at the Federal Institute of Paraná, in Software Engineering<br></p>
 
 ###
 
