@@ -61,7 +61,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=OAllanFernando&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=OAllanFernando&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OAllanFernando&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img height="200" src="https://i.pinimg.com/originals/1f/5c/0d/1f5c0de0c2cac23156675492a7bc22f4.gif" alt="pedro"  />
+  <img height="200" src="https://i.pinimg.com/originals/4c/3f/0b/4c3f0ba709a90708e70fe82225f08778.gif" alt="pedro"  />
 </div>
 
 
