@@ -2,13 +2,16 @@
 
 ###
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Next.js.<br>📚Academic at the Federal Institute of Paraná, in Software Engineering<br></p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OAllanFernando&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=OAllanFernando&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OAllanFernando&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="200" src="https://i.pinimg.com/originals/4c/3f/0b/4c3f0ba709a90708e70fe82225f08778.gif" alt="pedro"  />
+</div>
 
 ###
 
@@ -57,12 +60,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OAllanFernando&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=OAllanFernando&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OAllanFernando&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img height="200" src="https://i.pinimg.com/originals/4c/3f/0b/4c3f0ba709a90708e70fe82225f08778.gif" alt="pedro"  />
-</div>
+
 
 
 
