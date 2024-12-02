@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Next.js.<br>📚Academic at the Federal Institute of Paraná, in Software Engineering<br></p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently working with Next.js.<br>📚Academic at the Federal Institute of Paraná, in Software Engineering<br></p>
 
 ###
 
