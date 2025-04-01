@@ -1,4 +1,3 @@
-<h1 align="left">Hey Dude</h1>
 
 ###
 
@@ -57,6 +56,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/OAllanFernando/count.svg?"  />
 </div>
+<h1 align="left">Hey Dude</h1>
 
 ###
 
