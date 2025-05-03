@@ -1,7 +1,7 @@
 
 ###
 
-<p align="left">✨ Creating solutions since 2019.<br>📚 I'm currently working with Next.js.<br>📚Academic at the Federal Institute of Paraná, in Software Engineering<br></p>
+<p align="left">✨ Creating solutions since 2019.<br>📚 I'm currently working with java/andular and java/React native.<br> Software engineer by Federal Institute of Paraná <br></p>
 
 ###
 
