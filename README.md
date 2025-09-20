@@ -53,8 +53,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" height="40" alt="ethereum logo" />
-  <img width="12" />
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" height="50" alt="ethereum logo" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo" />
 </div>
 
