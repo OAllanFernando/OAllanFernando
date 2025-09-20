@@ -53,12 +53,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ethereum.svg" height="40" alt="ethereum logo" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ethereum.svg?color=888888" height="40" alt="ethereum logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo" />
 </div>
-
-###
 
 <h2 align="left">📫 Contact Me</h2>
 
